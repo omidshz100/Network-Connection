@@ -7,7 +7,7 @@
 
 import SwiftUI
 import Network
-
+// init
 struct ContentView: View {
     
     
