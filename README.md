@@ -1,4 +1,4 @@
-###Network Connection Monitor
+### Network Connection Monitor
 
 This SwiftUI application monitors the network connectivity status of an iOS device and provides visual feedback to the user when the connection is lost or restored. It uses the `Network` framework to observe network changes in real-time and updates the UI accordingly.
 
